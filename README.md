@@ -1,16 +1,9 @@
-<div align="center">
-  <img alt="Logo" src="https://github.com/rajatvaidhya/my-portfolio/blob/code/src/images/logo.png" width="100" />
-</div>
 <h1 align="center">
   Portfolio.me
 </h1>
 <p align="center">
   The Portfolio is <a href="https://rajatvaidhya.netlify.app/" target="_blank">Rajat.me</a> built with React, Gatsy and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
-
-<div align="center">
-  <img alt="Demo" src="https://github.com/rajatvaidhya/my-portfolio/blob/code/src/images/demo.png" />
-</div>
 
 ### TL;DR
 
