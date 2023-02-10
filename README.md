@@ -1,24 +1,20 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/Roopshree6902/Portfolio_me/blob/code/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://github.com/rajatvaidhya/my-portfolio/blob/code/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   Portfolio.me
 </h1>
 <p align="center">
-  The Portfolio is <a href="https://roopshreeudaiwal.netlify.app/" target="_blank">Roopshree.me</a> built with React, Gatsy and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
-<p align="center">
-  Previous iterations:
-  <a href="https://roopshree6902.github.io/Personal-Portfolio/" target="_blank">Version 1</a>
+  The Portfolio is <a href="https://rajatvaidhya.netlify.app/" target="_blank">Rajat.me</a> built with React, Gatsy and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
 </p>
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/Roopshree6902/Portfolio_me/blob/code/src/images/demo.png" />
+  <img alt="Demo" src="https://github.com/rajatvaidhya/my-portfolio/blob/code/src/images/demo.png" />
 </div>
 
 ### TL;DR
 
-Yes, you can fork this repo. Please give proper credit by linking back to [Portfolio_me](https://github.com/Roopshree6902/Portfolio_me). Thanks!
+Yes, you can fork this repo. Please give proper credit by linking back to [Portfolio_me](https://github.com/rajatvaidhya/my-portfolio). Thanks!
 
 ## 🛠 Installation & Set Up
 
