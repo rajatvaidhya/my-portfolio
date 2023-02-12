@@ -10,7 +10,7 @@ skills:
   - Javascript || Jquery
   - ReactJS || NodeJS || ExpressJS
   - Git || Github
-  - MongoBD || Netlify
+  - MongoDB || Netlify
   - APIs
 ---
 
